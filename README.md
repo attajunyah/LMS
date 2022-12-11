@@ -1,6 +1,9 @@
 # LMS
 Django LMS is a Learning Management System using the framework, you guessed it right, Django. The system gives students and parents a simple platform to learn online through tutorial videos. They can download presentations, lecture notes and videos if they want to. 
 
+![alt text](https://raw.githubusercontent.com/attajunyah/LMS/main/page1.png)
+![alt text](https://raw.githubusercontent.com/attajunyah/LMS/main/page2.png)
+
 # Motivation
 The project started as a challenge to improve and test my knowledge of Django. The initial version of this project was created with vanilla JavaScript, PHP, HTML, CSS and Bootstrap. In the future, I would like to add the instructors panel to deal with their respective subjects. 
 
