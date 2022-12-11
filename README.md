@@ -37,7 +37,7 @@ source venv/bin/activate
 
 python3 -m pip install django 
 
-pip freeeze > requirements1.txt (optional)
+pip freeze > requirements1.txt (optional)
 
 pip install -r requirements.txt
 
