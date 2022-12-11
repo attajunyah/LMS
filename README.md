@@ -32,8 +32,16 @@ This project requires python3.8 and sqlite.
 Install requirements:
 
 ```sh
-cd src && pip install -r requirements.txt
-cp app/.env.ci app/.env  # default environment variables
+python3 -m venv ./venv
+source venv/bin/activate
+
+python3 -m pip install django 
+
+pip freeeze > requirements1.txt (optional)
+
+pip install -r requirements.txt
+
+python manage.py runserver
 ```
 
 ```sh
